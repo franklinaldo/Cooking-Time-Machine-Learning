@@ -1,0 +1,6 @@
+.DS_Store
+
+# Ignore to push the data
+*.csv
+*.npz
+*.pkl
