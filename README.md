@@ -46,3 +46,7 @@ and svm predictions for stacking.
 - pred_chi_750_svm_linear.csv
 - pred kbest 750 chi2.csv
 - stacking_predict.csv
+
+
+<br>
+Made by Franklin Darmansa and Nathen Kurniasurja
